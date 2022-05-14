@@ -1,6 +1,7 @@
 # vector-tile-test
 
-This is a quick demo of vector tiles hosted on GitHub Pages.
+This is a quick demo of vector tiles hosted on GitHub Pages:
+<https://anthonyfok.github.io/vector-tile-test/>
 
 The original code is Joost van Ulden’s sample Leaflet implementation
 using mapbox tiles generated in GeoServer.
